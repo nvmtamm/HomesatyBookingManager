@@ -1,0 +1,31 @@
+# NetBeans / Ant build outputs
+build/
+dist/
+nbproject/private/
+
+# Frontend build outputs
+frontend/node_modules/
+frontend/dist/
+
+# Compiled classes and packaged artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary and backup files
+*.log
+*.tmp
+*.swp
+*~
